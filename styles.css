@@ -1,0 +1,67 @@
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+    
+body{
+    padding: 0 40px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: #FFFFFF;
+    font-family: "Anton", sans-serif;
+    min-height: 100vh;
+}
+
+.heading {
+    color:black;
+    font-size: 2.5em;
+}
+
+.subheading1 {
+    margin-top: 10px;
+    color:black;
+    font-size: 1.5em;
+  }
+
+.mainText {
+    color:black;
+    font-size: 1em;
+}
+
+.wardrobe {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+.buttons {
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+  }
+
+.buttonStyle {
+    font-family: "Anton", sans-serif;
+    font-size: 16px;
+  }
+
+.savedOutfits {
+    margin-top: 20px;
+   display: flex;
+   justify-content: center;
+    
+  }
+  
+.outfit {
+    margin-bottom: 10px;
+       
+  }
+  
+.top-image,
+.bottom-image,
+.outfit img {
+    width: 300px;
+    height: auto; 
+  }
+
